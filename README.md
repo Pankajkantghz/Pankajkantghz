@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/pankajy96296412" target="blank"><img src="https://img.shields.io/twitter/follow/pankajy96296412?logo=twitter&style=for-the-badge" alt="pankajy96296412" /></a> </p>
 
-- 🔭 I’m currently working on **match-up()**
+- 🔭 I’m currently working on **match-up**
 
-- 🌱 I’m currently learning **Nextjs, ReactNative, Rust,**
+- 🌱 I’m currently learning **Nextjs, ReactNative, Rust**
 
 - 👯 I’m looking to collaborate on [chromium](https://github.com/chromium/chromium)
 
