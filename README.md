@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pankaj Yadav</h1>
 <h3 align="center">A passionate full-stack developer and from India.</h3>
 
-<p align="left"> <img src="https://github.com/account" alt="pankajkantghz" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankajkantghz" alt="pankajkantghz" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/pankajy96296412" target="blank"><img src="https://img.shields.io/twitter/follow/pankajy96296412?logo=twitter&style=for-the-badge" alt="pankajy96296412" /></a> </p>
 
 - 🔭 I’m currently working on **match-up()**
