@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ysPpsgjPFl5WFJY_EONyNR3SEA0EojtI/view?usp=drive_link](https://drive.google.com/file/d/1ysPpsgjPFl5WFJY_EONyNR3SEA0EojtI/view?usp=drive_link)
 
-- ⚡ Fun fact **I think I am vissionary**
+- ⚡ Fun fact **I am good ...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
