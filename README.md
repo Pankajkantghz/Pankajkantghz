@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with [Palvella](https://github.com/moti9/Palvella)
 
-- 👨‍💻 All of my projects are available at [https://codolio.com/profile/pankaj_c](https://codolio.com/profile/pankaj_c)
+- 👨‍💻 All of my projects are available at [https://codolio.com/profile/pankaj_c](https://pankajyadavme.vercel.app/)
 
 - 💬 Ask me about **MERN, Spring, Nextjs, DSA, LLD, HLD**
 
