@@ -1,4 +1,4 @@
-# Hey, I'm Pankaj 👋
+# Hey, I'm Pankaj
 
 I'm a Full-Stack Developer who enjoys building scalable web applications and solving complex engineering problems.
 
